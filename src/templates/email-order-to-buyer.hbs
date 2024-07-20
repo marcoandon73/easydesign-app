@@ -1,0 +1,27 @@
+<!--
+
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <style>
+    /* CSS for styling the email goes here */
+    <link rel="stylesheet" type="text/css" href="./email.css">
+  </style>
+  <title></title>
+</head>
+  <body>
+  <p>Dear {{ business_name }} manager(s),</p>
+  <p>I hope this email finds you well.
+    I wanted to bring to your attention that we have received a new order from one of our customers.
+    The details of the order are as follows:
+  </p>
+  <ul>
+    <li>Order Number: {{ order_id }}</li>
+    <li>Customer Email: {{ customer_email }}</li>
+  </ul>
+  <p>Best regards,</p>
+  <p>{{ business_name }} support</p>
+  </body>
+</html>

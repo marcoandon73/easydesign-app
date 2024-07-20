@@ -1,0 +1,32 @@
+{
+  "NO_CONNECTION_WITH_THE_SERVER": "Pas de connexion avec le serveur",
+
+  "THE_SYNTAX_OF_THE_QUERY_IS_INCORRECT.": "La syntaxe de la requête est erronée.",
+  "AUTHENTICATION_IS_REQUIRED_TO_ACCESS_THE_RESOURCE.": "Une authentification est nécessaire pour accéder à la ressource.",
+  "INVALID_CREDENTIALS": "Email ou mot de passe incorrect",
+  "PAYMENT_REQUIRED_TO_ACCESS_THE RESOURCE.": "Paiement requis pour accéder à la ressource.",
+  "THE_ACCESS_RIGHTS_DO_NOT_ALLOW_THE_CLIENT_TO_ACCESS_THE_RESOURCE.": "Les droits d'accès ne permettent pas au client d'atteindre à la ressource.",
+  "RESOURCE_NOT_FOUND.": "Ressource non trouvée.",
+  "REQUEST_METHOD_NOT_ALLOWED.": "Méthode de requête non autorisée.",
+  "THE_REQUESTED_RESOURCE_IS_NOT_AVAILABLE_IN_A_FORMAT_THAT_WOULD_RESPECT_THE_ACCEPT_HEADERS_OF_THE_REQUEST.": "La ressource demandée n'est pas disponible dans un format qui respecte les en-têtes «accept» de la requête.",
+  "ACCESS_TO_THE_RESOURCE_AUTHORIZED_BY_IDENTIFICATION_WITH_THE_PROXY.": "Accès à la ressource autorisé par identification avec le proxy.",
+  "THE_CLIENT_DID_NOT_ISSUE_A_REQUEST_WITHIN_THE_TIME_THE_SERVER_WAS_PREPARED_TO_WAIT.": "Le client n'a pas produit de requête dans le délai que le serveur était prêt à attendre.",
+  "PROCESSING_ABORTED_DUE_TO_TOO_LARGE_A_REQUEST.": "Traitement abandonné dû à une requête trop importante.",
+  "THE_ENTITY_PROVIDED_WITH_THE_REQUEST_IS_INCOMPREHENSIBLE_OR_INCOMPLETE.": "L’entité fournie avec la requête est incompréhensible ou incomplète.",
+  "THE_OPERATION_CANNOT_TAKE_PLACE_BECAUSE_THE_RESOURCE_IS_LOCKED.": "L’opération ne peut pas avoir lieu car la ressource est verrouillée.",
+  "THE_CLIENT_HAS_MADE_TOO_MANY_REQUESTS.": "Le client a émis trop de requêtes",
+
+  "INTERNAL_SERVER_ERROR.": "Erreur interne du serveur.",
+  "REQUESTED_FUNCTIONALITY_NOT_SUPPORTED_BY_THE_SERVER.": "Fonctionnalité réclamée non supportée par le serveur.",
+  "WHILE_ACTING_AS_A_PROXY_OR_GATEWAY_SERVER,_THE_SERVER_RECEIVED_AN_INVALID_RESPONSE_FROM_THE_REMOTE_SERVER.": "En agissant en tant que serveur proxy ou passerelle, le serveur a reçu une réponse invalide depuis le serveur distant.",
+  "SERVICE_UNAVAILABLE_SERVICE_TEMPORARILY_UNAVAILABLE_OR_UNDER_MAINTENANCE.": "Service indisponible service temporairement indisponible ou en maintenance.",
+  "WAITING_TIME_FOR_A_RESPONSE_FROM_A_SERVER_TO_AN_INTERMEDIATE_SERVER_HAS_ELAPSED.": "Temps d’attente d’une réponse à un serveur intermédiaire écoulé.",
+  "HTTP_VERSION_NOT_MANAGED_BY_THE_SERVER.": "Version http non gérée par le serveur.",
+  "NEGOTIATION_ERROR.": "Erreur de négociation.",
+  "INSUFFICIENT_SPACE_TO_MODIFY_PROPERTIES_OR_BUILD_THE_COLLECTION.": "Espace insuffisant pour modifier les propriétés ou construire la collection.",
+  "LOOP_IN_RESOURCE_MATCHING_(RFC_584219).": "Boucle dans une mise en relation de ressources (rfc 584219).",
+  "USED_BY_MANY_SERVERS_TO_INDICATE_A_QUOTA_OVERRUN.": "Utilisé par de nombreux serveurs pour indiquer un dépassement de quota.",
+  "THE_REQUEST_DOES_NOT_RESPECT_THE_HTTP_EXTENDED_RESOURCES_ACCESS_POLICY.": "La requête ne respecte pas la politique d'accès aux ressources http étendues.",
+  "THE_CLIENT_MUST_AUTHENTICATE_TO_ACCESS_THE_NETWORK_USED_BY_CAPTIVE_PORTALS_TO_REDIRECT_CUSTOMERS_TO_THE_AUTHENTICATION_PAGE": "Le client doit s'authentifier pour accéder au réseau. Utilisé par les portails captifs pour rediriger les clients vers la page d'authentification.",
+  "AN_ERROR_HAS_OCCURED": "Une erreur est survenue."
+}

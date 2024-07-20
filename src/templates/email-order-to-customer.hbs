@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <style>
+    /* CSS for styling the email goes here */
+    <link rel="stylesheet" type="text/css" href="./email.css">
+  </style>
+  <title></title>
+</head>
+<body>
+  <p>Dear {{#if customer_name}}{{customer_name}}{{else}}customer{{/if}}!</p>
+  <p>
+    Thank you for expressing interest in one of our Products.
+    We appreciate your consideration and look forward to the opportunity to provide you with more information.
+  </p>
+  <p>
+    One of our customer service representatives will be in touch with you soon to answer any questions you may have and to assist you in completing your order.
+  </p>
+  <p>
+    Thank you again for your interest. We look forward to the opportunity to serve you.
+  </p>
+  <p>Best regards,</p>
+  <p>{{business_name}} team</p>
+</body>
+</html>
